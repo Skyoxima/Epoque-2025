@@ -1,9 +1,6 @@
 # Époque - 2025
 
 ---
-
-<!-- ![Preview Image](./Whole%20Calendar/With%20Patterns/PNGs/2.%20February%202025.png) -->
-
 <figure>
   <img src="./Whole Calendar/With Patterns/PNGs/2. February 2025.png" alt="Preview Image" />
   <figcaption><p align=center><i>February 2025</i></p></figcaption>
