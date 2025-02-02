@@ -4,9 +4,9 @@
 
 <!-- ![Preview Image](./Whole%20Calendar/With%20Patterns/PNGs/2.%20February%202025.png) -->
 
-<figure >
-<img style="width: 100%;" src="./Whole Calendar/With Patterns/PNGs/2. February 2025.png" alt="Preview Image" />
-  <figcaption style="text-align: center;"><i>February 2025</i></figcaption>
+<figure>
+  <img src="./Whole Calendar/With Patterns/PNGs/2. February 2025.png" alt="Preview Image" />
+  <figcaption><p align=center><i>February 2025</i></p></figcaption>
 </figure>
 
 ---
