@@ -6,7 +6,7 @@
 
 <figure >
 <img style="width: 100%;" src="./Whole Calendar/With Patterns/PNGs/2. February 2025.png" alt="Preview Image" />
-  <figcaption align="center"><i>February 2025</i></figcaption>
+  <figcaption style="text-align: center;"><i>February 2025</i></figcaption>
 </figure>
 
 ---
