@@ -22,7 +22,7 @@
 
 <br>
 
-- I wish to extensively talk about the development phase and the thoughts behind all the design choices I made in this project. If you're interested, come visit: [[!Epoque-2025 Showcase](https://epoque-2025-showcase.vercel.app/images/preview/preview-light.png)](https://epoque-2025-showcase.vercel.app)
+- I wish to extensively talk about the development phase and the thoughts behind all the design choices I made in this project. If you're interested, come visit: [![Website Preview](https://epoque-2025-showcase.vercel.app/images/preview/preview-light.png)](https://https://epoque-2025-showcase.vercel.app)
 
 <br>
 
