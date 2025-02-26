@@ -22,4 +22,12 @@
 
 <br>
 
-- This project very likely isn't perfect, as I'd been able to get it critiqued through various sources and critique it myself too. The learning experience is what is of the most value and I strive to make developments in Graphic Design moving forward!
+- I wish to extensively talk about the development phase and the thoughts behind all the design choices I made in this project. If you're interested, come visit: [[!Epoque-2025 Showcase](https://epoque-2025-showcase.vercel.app/images/preview/preview-light.png)](https://epoque-2025-showcase.vercel.app)
+
+<br>
+
+- This project isn't perfect, as I'd been able to get it critiqued through various sources and later critiqued it myself too. The learning experience is what is of the most value and I strive to make developments in Graphic Design & Web Development moving forward!
+
+<br>
+
+If you've reached here, thank you for your time for reading my thoughts🙏.
